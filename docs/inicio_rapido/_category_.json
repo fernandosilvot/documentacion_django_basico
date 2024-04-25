@@ -1,0 +1,8 @@
+{
+  "label": "Inicio",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Inicio a la documentación de Django"
+  }
+}
