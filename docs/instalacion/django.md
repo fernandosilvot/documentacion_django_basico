@@ -25,6 +25,9 @@ nombre_del_entorno\Scripts\activate
 
 4. Instala Django en tu entorno virtual ejecutando el siguiente comando:
 
+:::note
+La version de Django es la 5.0.4 que es la ultima version estable al momento de escribir este documento.
+:::
 ```bash
 pip install django
 ```

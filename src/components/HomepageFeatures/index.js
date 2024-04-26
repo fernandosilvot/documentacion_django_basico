@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/cittsj.svg').default,
     description: (
       <>
-        Realizado por Fernando Silva T. <br /> Estudiante de Ingeniería en Informática. <br />miembro del CITT Duoc Uc Sede San Joaquín.
+        Realizado por Fernando Silva T. <br /> Estudiante de Ingeniería en Informática. <br />Lider CITT Duoc Uc Sede San Joaquín 2024.
       </>
     ),
   },
