@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentacion_django_basico=self.webpackChunkdocumentacion_django_basico||[]).push([[385],{1966:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
