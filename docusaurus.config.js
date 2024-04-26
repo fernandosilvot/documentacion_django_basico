@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/django.svg',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://fernandosilvot.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/documentacion_django_basico/',
@@ -23,6 +23,7 @@ const config = {
   organizationName: 'fernandosilvot', // Usually your GitHub org/user name.
   projectName: 'documentacion_django_basico', // Usually your repo name.
   deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -57,11 +58,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/Django_Basico.png',
       navbar: {
         title: 'Django Básico',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Django Basico',
           src: 'img/django.svg',
         },
         items: [
