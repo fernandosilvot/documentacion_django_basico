@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Django Básico',
   tagline: 'Guía de Django Básico en Español',
-  favicon: 'img/django.svg',
+  favicon: 'img/django_dorado.svg',
 
   // Set the production url of your site here
   url: 'https://fernandosilvot.github.io',
@@ -53,17 +53,29 @@ const config = {
       }),
     ],
   ],
-
+  plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      ({
+        hashed: true,
+        language: ["es"],
+      }),
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+      },
       image: 'img/Django_Basico.png',
       navbar: {
         title: 'Django Básico',
         logo: {
           alt: 'Django Basico',
-          src: 'img/django.svg',
+          src: 'img/django_dorado.svg',
         },
         items: [
           {
@@ -80,7 +92,6 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
         links: [
           {
             title: 'Documentación',
@@ -117,5 +128,6 @@ const config = {
       },
     }),
 };
+
 
 export default config;
