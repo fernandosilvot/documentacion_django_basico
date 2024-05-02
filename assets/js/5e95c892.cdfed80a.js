@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocumentacion_django_basico=self.webpackChunkdocumentacion_django_basico||[]).push([[647],{7121:(e,a,c)=>{c.r(a),c.d(a,{default:()=>t});c(6540);var s=c(4164),n=c(1003),o=c(7559),r=c(2831),u=c(781),d=c(4848);function t(e){return(0,d.jsx)(n.e3,{className:(0,s.A)(o.G.wrapper.docsPages),children:(0,d.jsx)(u.A,{children:(0,r.v)(e.route.routes)})})}}}]);

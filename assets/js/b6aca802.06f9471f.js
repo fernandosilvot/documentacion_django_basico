@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentacion_django_basico=self.webpackChunkdocumentacion_django_basico||[]).push([[946],{1142:a=>{a.exports=JSON.parse('{"name":"@easyops-cn/docusaurus-search-local","id":"default"}')}}]);
