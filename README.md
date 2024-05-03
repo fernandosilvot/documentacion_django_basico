@@ -1,41 +1,15 @@
-# Website
+# Documentación de Django por Fernando Silva
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Bienvenido a la documentación de Django por Fernando Silva. Este sitio web proporciona una guía detallada para el desarrollo con Django, incluyendo tutoriales, ejemplos de código y recursos útiles.
 
-### Installation
+## Contribución
 
-```
-$ yarn
-```
+¡Las contribuciones son bienvenidas! Si encuentras errores o quieres mejorar la documentación, no dudes en abrir un [issue](https://github.com/fernandosilvot/documentacion_django_basico/issues) o enviar un [pull request](https://github.com/fernandosilvot/documentacion_django_basico/pulls) en GitHub.
 
-### Local Development
+## Agradecimientos
 
-```
-$ yarn start
-```
+Este sitio web fue creado utilizando [Docusaurus](https://docusaurus.io/), un generador de sitios web estáticos de código abierto desarrollado por Facebook. ¡Gracias a todos los desarrolladores que contribuyeron a este increíble proyecto!
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Contacto
 
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo a través de mi correo electrónico: fernandosilvot@gmail.com 
